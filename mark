@@ -1,0 +1,3 @@
+linux定时任务
+crontab -e 
+*/10 * * * * sh /root/updateIp.sh
